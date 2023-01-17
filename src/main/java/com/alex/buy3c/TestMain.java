@@ -6,7 +6,6 @@ public class TestMain {
 		System.out.println("add print line");
 		System.out.println("two line");
 		System.out.println("test branch");
-		System.out.println("test branch 2 ");
 
 	}
 
