@@ -8,6 +8,7 @@ public class StringOrderDemo {
 		String[] names = { "Justiin", "Caterpiller", "Bush" };
 		Arrays.sort(names,StringOrder::byLength);//方法參考
 		System.out.println(Arrays.toString(names));
+		System.out.println("git test");
 
 	}
 
