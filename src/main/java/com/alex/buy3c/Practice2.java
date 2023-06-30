@@ -15,7 +15,7 @@ public class Practice2 {
 			}
 			
 		};
-		
+		String[] t = { "Justiin", "Caterpiller", "Bush" };
 		
 		String[] names = { "Justiin", "Caterpiller", "Bush" };
 		Arrays.sort(names, byLenght);
