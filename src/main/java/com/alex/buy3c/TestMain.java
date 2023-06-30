@@ -9,6 +9,8 @@ public class TestMain {
 		System.out.println("eclipse git change");
 		System.out.println("eclipse git change2");
 		System.out.println("eclipse git change3");
+		System.out.println("測試push");
+
 	}
 
 }
