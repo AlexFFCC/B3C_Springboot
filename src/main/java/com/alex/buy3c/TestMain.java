@@ -7,6 +7,7 @@ public class TestMain {
 		System.out.println("two line");
 		System.out.println("test branch");
 		System.out.println("eclipse git change");
+		System.out.println("eclipse git change2");
 	}
 
 }
