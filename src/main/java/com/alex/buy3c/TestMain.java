@@ -9,6 +9,7 @@ public class TestMain {
 		System.out.println("test git user");
 		System.out.println("test git user2");
 		System.out.println("test git user3");
+		System.out.println("update token");
 
 	}
 
